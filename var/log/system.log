@@ -314,3 +314,691 @@
 2014-09-03T04:55:18+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
 2014-09-03T04:55:18+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
 2014-09-03T04:55:18+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T05:34:29+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T05:34:29+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T05:34:29+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T05:34:29+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T05:34:29+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T05:34:29+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T05:34:29+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T05:34:29+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T05:34:31+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T05:34:31+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T05:34:31+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T05:34:31+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T05:34:31+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T05:34:31+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T05:34:31+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T05:34:31+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T06:50:39+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T06:50:39+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T06:50:39+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T06:50:39+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T06:50:39+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T06:50:39+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T06:50:39+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T06:50:39+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T06:50:42+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T06:50:42+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T06:50:42+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T06:50:42+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T06:50:42+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T06:50:42+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T06:50:42+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T06:50:42+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T06:57:08+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T06:57:08+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T06:57:08+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T06:57:08+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T06:57:08+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T06:57:08+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T06:57:08+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T06:57:08+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T06:57:09+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T06:57:09+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T06:57:09+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T06:57:09+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T06:57:09+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T06:57:09+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T06:57:09+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T06:57:09+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T06:57:19+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T06:57:19+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T06:57:19+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T06:57:19+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T06:57:19+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T06:57:19+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T06:57:19+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T06:57:19+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T06:57:20+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T06:57:20+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T06:57:20+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T06:57:20+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T06:57:20+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T06:57:20+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T06:57:20+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T06:57:20+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:14:07+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:14:07+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:14:07+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:14:07+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:14:07+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:14:07+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:14:07+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:14:07+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:14:41+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:14:41+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:14:41+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:14:41+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:14:41+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:14:41+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:14:41+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:14:41+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:14:44+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:14:44+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:14:44+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:14:44+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:14:44+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:14:44+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:14:44+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:14:44+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:14:48+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:14:48+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:14:48+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:14:48+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:14:48+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:14:48+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:14:48+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:14:48+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:14:48+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:14:48+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:14:48+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:14:48+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:14:48+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:14:48+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:14:48+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:14:48+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:15:17+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:15:17+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:15:17+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:15:17+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:15:17+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:15:17+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:15:17+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:15:17+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:15:43+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:15:43+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:15:43+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:15:43+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:15:43+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:15:43+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:15:43+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:15:43+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:15:47+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:15:47+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:15:47+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:15:47+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:15:47+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:15:47+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:15:47+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:15:47+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:19:47+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:19:47+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:19:47+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:19:47+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:19:47+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:19:47+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:19:47+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:19:47+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:20:05+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:20:05+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:20:05+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:20:05+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:20:05+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:20:05+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:20:05+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:20:05+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:20:06+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:20:06+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:20:06+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:20:06+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:20:06+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:20:06+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:20:06+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:20:06+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:20:38+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:20:38+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:20:38+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:20:38+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:20:38+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:20:38+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:20:38+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:20:38+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:24:06+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:24:06+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:24:06+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:24:06+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:24:06+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:24:06+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:24:06+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:24:06+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:24:23+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:24:23+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:24:23+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:24:23+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:24:23+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:24:23+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:24:23+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:24:23+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:24:38+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:24:38+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:24:38+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:24:38+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:24:38+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:24:38+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:24:38+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:24:38+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:29:46+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:29:46+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:29:46+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:29:46+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:29:46+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:29:46+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:29:46+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:29:46+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:29:48+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:29:48+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:29:48+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:29:48+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:29:48+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:29:48+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:29:48+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:29:48+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:30:01+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:30:01+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:30:01+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:30:01+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:30:01+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:30:01+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:30:01+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:30:01+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:30:01+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:30:01+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:30:01+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:30:01+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:30:01+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:30:01+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:30:01+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:30:01+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:30:17+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:30:17+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:30:17+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:30:17+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:30:17+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:30:17+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:30:17+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:30:17+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:30:17+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:30:17+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:30:17+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:30:17+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:30:17+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:30:17+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:30:17+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:30:17+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:30:17+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:30:17+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:30:17+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:30:17+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:30:17+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:30:17+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:30:17+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:30:17+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:30:17+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:30:17+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:30:17+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:30:17+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:30:17+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:30:17+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:30:17+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:30:17+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:30:19+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:30:19+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:30:19+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:30:19+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:30:19+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:30:19+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:30:19+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:30:19+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:30:20+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:30:20+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:30:20+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:30:20+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:30:20+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:30:20+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:30:20+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:30:20+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:30:20+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:30:20+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:30:20+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:30:20+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:30:20+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:30:20+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:30:20+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:30:20+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:30:20+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:30:20+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:30:20+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:30:20+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:30:20+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:30:20+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:30:20+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:30:20+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:30:21+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:30:21+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:30:21+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:30:21+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:30:21+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:30:21+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:30:21+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:30:21+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:30:21+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:30:21+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:30:21+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:30:21+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:30:21+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:30:21+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:30:21+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:30:21+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:30:21+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:30:21+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:30:21+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:30:21+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:30:21+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:30:21+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:30:21+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:30:21+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:30:22+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:30:22+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:30:22+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:30:22+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:30:22+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:30:22+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:30:22+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:30:22+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:30:25+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:30:25+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:30:25+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:30:25+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:30:25+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:30:25+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:30:25+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:30:25+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:30:25+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:30:25+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:30:25+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:30:25+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:30:25+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:30:25+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:30:25+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:30:25+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:30:34+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:30:34+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:30:34+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:30:34+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:30:34+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:30:34+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:30:34+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:30:34+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:30:39+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:30:39+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:30:39+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:30:39+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:30:39+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:30:39+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:30:39+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:30:39+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:30:53+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:30:53+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:30:53+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:30:53+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:30:53+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:30:53+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:30:53+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:30:53+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:06+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:31:06+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:31:06+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:31:06+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:31:06+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:31:06+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:31:06+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:06+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:20+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:31:20+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:31:20+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:31:20+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:31:20+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:31:20+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:31:20+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:20+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:21+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:31:21+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:31:21+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:31:21+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:31:21+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:31:21+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:31:21+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:21+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:22+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:31:22+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:31:22+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:31:22+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:31:22+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:31:22+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:31:22+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:22+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:23+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:31:23+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:31:23+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:31:23+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:31:23+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:31:23+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:31:23+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:23+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:26+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:31:26+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:31:26+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:31:26+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:31:26+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:31:26+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:31:26+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:26+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:26+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:31:26+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:31:26+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:31:26+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:31:26+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:31:26+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:31:26+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:26+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:26+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:31:26+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:31:26+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:31:26+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:31:26+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:31:26+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:31:26+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:26+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:26+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:31:26+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:31:26+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:31:26+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:31:26+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:31:26+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:31:26+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:26+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:28+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:31:28+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:31:28+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:31:28+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:31:28+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:31:28+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:31:28+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:28+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:28+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:31:28+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:31:28+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:31:28+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:31:28+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:31:28+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:31:28+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:28+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:28+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:31:28+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:31:28+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:31:28+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:31:28+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:31:28+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:31:28+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:28+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:29+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:31:29+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:31:29+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:31:29+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:31:29+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:31:29+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:31:29+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:29+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:30+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:31:30+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:31:30+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:31:30+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:31:30+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:31:30+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:31:30+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:30+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:30+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:31:30+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:31:30+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:31:30+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:31:30+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:31:30+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:31:30+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:30+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:30+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:31:30+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:31:30+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:31:30+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:31:30+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:31:30+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:31:30+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:30+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:30+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:31:30+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:31:30+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:31:30+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:31:30+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:31:30+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:31:30+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:30+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:31+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:31:31+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:31:31+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:31:31+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:31:31+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:31:31+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:31:31+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:31+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:31+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:31:31+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:31:31+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:31:31+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:31:31+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:31:31+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:31:31+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:31+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:31+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:31:31+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:31:31+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:31:31+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:31:31+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:31:31+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:31:31+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:31+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:32+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:31:32+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:31:32+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:31:32+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:31:32+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:31:32+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:31:32+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:32+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:35+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:31:35+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:31:35+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:31:35+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:31:35+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:31:35+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:31:35+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:35+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:35+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:31:35+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:31:35+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:31:35+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:31:35+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:31:35+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:31:35+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:31:35+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:32:53+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:32:53+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:32:53+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:32:53+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:32:53+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:32:53+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:32:53+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:32:53+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:35:16+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:35:16+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:35:16+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:35:16+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:35:16+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:35:16+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:35:16+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:35:16+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:35:39+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:35:39+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:35:39+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:35:39+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:35:39+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:35:39+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:35:39+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:35:39+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:36:01+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:36:01+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:36:01+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:36:01+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:36:01+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:36:01+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:36:01+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:36:01+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:36:18+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:36:18+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:36:18+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:36:18+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:36:18+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:36:18+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:36:18+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:36:18+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:36:21+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:36:21+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:36:21+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:36:21+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:36:21+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:36:21+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:36:21+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:36:21+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:36:23+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:36:23+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:36:23+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:36:23+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:36:23+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:36:23+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:36:23+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:36:23+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:36:30+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:36:30+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:36:30+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:36:30+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:36:30+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:36:30+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:36:30+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:36:30+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:36:33+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:36:33+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:36:33+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:36:33+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:36:33+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:36:33+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:36:33+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:36:33+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:36:40+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:36:40+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:36:40+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:36:40+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:36:40+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:36:40+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:36:40+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:36:40+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:36:54+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:36:54+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:36:54+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:36:54+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:36:54+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:36:54+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:36:54+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:36:54+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:36:57+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:36:57+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:36:57+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:36:57+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:36:57+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:36:57+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:36:57+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:36:57+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:37:01+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:37:01+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:37:01+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:37:01+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:37:01+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:37:01+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:37:01+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:37:01+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:37:02+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:37:02+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:37:02+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:37:02+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:37:02+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:37:02+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:37:02+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:37:02+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:37:10+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:37:10+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:37:10+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:37:10+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:37:10+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:37:10+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:37:10+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:37:10+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:37:13+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:37:13+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:37:13+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:37:13+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:37:13+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:37:13+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:37:13+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:37:13+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:37:15+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:37:15+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:37:15+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:37:15+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:37:15+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:37:15+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:37:15+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:37:15+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:37:26+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:37:26+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:37:26+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:37:26+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:37:26+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:37:26+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:37:26+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:37:26+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:37:32+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-09-03T07:37:32+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 97
+2014-09-03T07:37:32+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-09-03T07:37:32+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 99
+2014-09-03T07:37:32+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 100
+2014-09-03T07:37:32+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 101
+2014-09-03T07:37:32+00:00 ERR (3): Notice: Undefined variable: cookieParams  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
+2014-09-03T07:37:32+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in /var/www/magento_tut/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 110
