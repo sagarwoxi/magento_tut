@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Webonise_PdfUpload>
+      <version>0.1.0</version>
+    </Webonise_PdfUpload>
+  </modules>
+  <frontend>
+    <routers>
+      <pdfupload>
+        <use>standard</use>
+          <args>
+            <module>Webonise_PdfUpload</module>
+            <frontName>pdfupload</frontName>
+          </args>
+      </pdfupload>
+    </routers>
+		<layout>
+		  <updates>
+			<pdfupload>
+			  <file>pdfupload.xml</file>
+			</pdfupload>
+		  </updates>
+		</layout>
+  </frontend>
+  <global>
+    <helpers>
+      <pdfupload>
+        <class>Webonise_PdfUpload_Helper</class>
+      </pdfupload>
+    </helpers>
+	<blocks>
+	  <pdfupload>
+		<class>Webonise_PdfUpload_Block</class>
+	  </pdfupload>
+	</blocks>
+	<models>
+	  <pdfupload>
+		<class>Webonise_PdfUpload_Model</class>
+		<resourceModel>pdfupload_mysql4</resourceModel>
+	  </pdfupload>
+	  <pdfupload_mysql4>
+		<class>Webonise_PdfUpload_Model_Mysql4</class>
+		<entities>		  
+			  <pdfupload>
+				<table>pdfupload</table>
+			  </pdfupload>
+        </entities>
+	  </pdfupload_mysql4>
+	</models>
+	<resources>
+	  <pdfupload_setup>
+		<setup>
+		  <module>Webonise_PdfUpload</module>
+		</setup>
+		<connection>
+		  <use>core_setup</use>
+		</connection>
+	  </pdfupload_setup>
+	  <pdfupload_write>
+		<connection>
+		  <use>core_write</use>
+		</connection>
+	  </pdfupload_write>
+	  <pdfupload_read>
+		<connection>
+		  <use>core_read</use>
+		</connection>
+	  </pdfupload_read>
+	</resources>
+  </global>
+  <admin>
+	<routers>
+	  <pdfupload>
+	    <use>admin</use>
+		<args>
+		  <module>Webonise_PdfUpload</module>
+		  <frontName>admin_pdfupload</frontName>
+		</args>
+	  </pdfupload>
+	</routers>
+  </admin>
+  <adminhtml>
+	<menu>
+	  <pdfupload module="pdfupload">
+		<title>PdfUpload</title>
+		<sort_order>100</sort_order>
+		<children>
+		  <pdfuploadbackend module="pdfupload">
+			<title>PDF management</title>
+			<sort_order>0</sort_order>
+			<action>admin_pdfupload/adminhtml_pdfuploadbackend</action>
+		  </pdfuploadbackend>
+		  <pdfupload module="pdfupload">
+		    <title>Manage Pdfupload</title>
+			<sort_order>0</sort_order>
+			<action>admin_pdfupload/adminhtml_pdfupload</action>
+		  </pdfupload>
+		</children>
+	  </pdfupload>
+	</menu>
+	<acl>
+	  <resources>
+		<all>
+		  <title>Allow Everything</title>
+		</all>
+		<admin>
+		  <children>
+			<pdfupload translate="title" module="pdfupload">
+			  <title>PdfUpload</title>
+			  <sort_order>1000</sort_order>
+			  <children>
+		  <pdfuploadbackend translate="title">
+			<title>PDF management</title>
+		  </pdfuploadbackend>
+		  <pdfupload translate="title">
+			<title>Manage Pdfupload</title>
+			<sort_order>0</sort_order>
+		  </pdfupload>
+			  </children>
+			</pdfupload>
+		  </children>
+		</admin>
+	  </resources>
+	</acl>
+	<layout>
+	  <updates>
+		<pdfupload>
+		  <file>pdfupload.xml</file>
+		</pdfupload>
+	  </updates>
+	</layout>
+  </adminhtml>
+</config> 

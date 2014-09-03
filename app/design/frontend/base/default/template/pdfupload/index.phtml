@@ -1,0 +1,14 @@
+
+<?php
+
+$collection = Mage::getModel('pdfupload/pdfupload')->getCollection();
+//var_dump($collection);exit;
+foreach ($collection as $filedata):
+   //echo '<img src="' . Mage::getBaseUrl('media').'/blog/'.$image->getData('image') . '"/>';
+	
+	//echo "<br/>";
+?>
+<a href="<?php echo Mage::getBaseUrl('media').'/'.$filedata->getData('filename') ?>" target="_blank" ><?php echo $filedata->getData('name'); ?></a>
+<?php
+endforeach;
+?>

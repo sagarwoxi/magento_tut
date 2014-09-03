@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <!--Here we define our admin menu-->
+    <menu>
+        <certification_student>
+            <title>Students</title>
+            <sort_order>80</sort_order>
+            <children>
+                <list>
+                    <title>View students</title>
+                    <action>adminhtml/student/list</action>
+                </list>
+            </children>
+        </certification_student>
+    </menu>
+</config>

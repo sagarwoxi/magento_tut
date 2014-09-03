@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Webonise_Pdfupload>
+            <version>0.1.0</version>
+        </Webonise_Pdfupload>
+    </modules>
+    <adminhtml>
+        <!-- The <layout> updates allow us to define our block layouts in a separate file so are aren't messin' with the Magento layout files.  -->
+        <layout>
+            <updates>
+                <pdfupload>
+                    <file>pdfupload.xml</file>
+                </pdfupload>
+            </updates>
+        </layout>
+        <!-- The <acl> section is for access control. Here we define the pieces where access can be controlled within a role. -->
+        <acl>
+            <resources>
+                <admin>
+                    <children>
+                        <pdfupload>
+                            <title>Pdfupload Menu Item</title>
+                            <children>
+                                <example translate="title" module="pdfupload">
+                                    <title>Example Menu Item</title>
+                                </example>
+                            </children>
+                        </pdfupload>
+                    </children>
+                </admin>
+            </resources>
+        </acl>
+    </adminhtml>
+    <admin>
+        <!--
+            Here we are telling the Magento router to look for the controllers in the Super_Awesome_controllers_Adminhtml before we look in the
+            Mage_Adminhtml module for all urls that begin with /admin/controller_name
+         -->
+        <routers>
+            <adminhtml>
+                <args>
+                    <modules>
+                        <pdfupload before="Mage_Adminhtml">Webonise_Pdfupload_Adminhtml</pdfupload>
+                    </modules>
+                </args>
+            </adminhtml>
+        </routers>
+    </admin>
+    <global>
+        <models>
+            <pdfupload>
+                <class>Webonise_Pdfupload_Model</class>
+                <resourceModel>pdfupload_mysql4</resourceModel>
+            </pdfupload>
+             <pdfupload_mysql4>
+                <class>Webonise_Pdfupload_Model_Mysql4</class>
+                <entities>
+                    <example>
+                        <table>Webonise_Pdfupload_example</table>
+                    </example>
+                </entities>
+            </pdfupload_mysql4>
+        </models>
+
+        <resources>
+            <pdfupload_setup>
+                <setup>
+                    <module>Webonise_Pdfupload</module>
+                </setup>
+                <connection>
+                    <use>core_setup</use>
+                </connection>
+            </pdfupload_setup>
+            <pdfupload_write>
+                <connection>
+                    <use>core_write</use>
+                </connection>
+            </pdfupload_write>
+            <pdfupload_read>
+                <connection>
+                    <use>core_read</use>
+                </connection>
+            </pdfupload_read>
+        </resources>
+
+        <blocks>
+            <pdfupload>
+                <class>Webonise_Pdfupload_Block</class>
+            </pdfupload>
+        </blocks>        
+
+        <helpers>
+            <pdfupload>
+                <class>Webonise_Pdfupload_Helper</class>
+            </pdfupload>
+        </helpers>
+    </global>
+</config>

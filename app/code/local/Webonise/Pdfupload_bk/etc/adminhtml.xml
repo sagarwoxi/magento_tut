@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<config>
+    <menu>
+        <pdfupload>
+            <title>Pdfupload</title>
+            <sort_order>15</sort_order>
+            <children>
+                <example translate="title" module="pdfupload">
+                    <title>Upload</title>
+                    <sort_order>1</sort_order>
+                    <action>adminhtml/example/index</action>
+                </example>
+            </children>
+        </pdfupload>
+    </menu>
+</config>

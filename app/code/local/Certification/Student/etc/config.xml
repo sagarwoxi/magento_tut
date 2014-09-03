@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <Certification_Student>
+            <version>0.1.0</version>
+        </Certification_Student>
+    </modules>
+    <global>
+        <models>
+            <student>
+                <class>Certification_Student_Model</class>
+                <resourceModel>student_resource</resourceModel>
+            </student>
+            <student_resource>
+                <class>Certification_Student_Model_Resource</class>
+                <entities>
+                    <student>
+                        <table>student</table>
+                    </student>
+                </entities>
+            </student_resource>
+        </models>
+        <blocks>
+            <student>
+                <class>Certification_Student_Block</class>
+            </student>
+        </blocks>
+        <helpers>
+            <student>
+                <class>Certification_Student_Helper</class>
+            </student>
+        </helpers>
+    </global>
+    <!--Here we make our controllers work unde de admin route-->
+    <admin>
+        <routers>
+            <adminhtml>
+                <args>
+                    <modules>
+                        <certification_student before="Mage_Adminhtml">Certification_Student_Adminhtml</certification_student>
+                    </modules>
+                </args>
+            </adminhtml>
+        </routers>
+    </admin>
+    <!--Here we define our layout file for our module-->
+    <adminhtml>
+        <layout>
+            <updates>
+                <student>
+                    <!--Will be located in app/design/adminhtml/default/default/student.xml-->
+                    <file>student.xml</file>
+                </student>
+            </updates>
+        </layout>
+    </adminhtml>
+</config>
